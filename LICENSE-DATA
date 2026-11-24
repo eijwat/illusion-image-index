@@ -1,0 +1,16 @@
+The metadata tables, labels and categories in data/ and the paper (paper/) are licensed under the Creative Commons
+Attribution 4.0 International License (CC BY 4.0).
+
+Copyright (c) 2026 Eiji Watanabe
+
+You are free to share and adapt this material for any purpose, even commercially, as long as you give appropriate
+credit, provide a link to the license, and indicate if changes were made.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+This licence covers the compilation and the labels made for this project. Facts taken from the sources (titles,
+author names, dates, URLs, stated licences) remain facts about third-party works; the works themselves are NOT
+covered by this licence. Images are not part of this repository. The images bundled in the Zenodo record each keep
+their own licence, listed per file in ATTRIBUTION.csv inside the zips.
+
+The code (crawler/, tools/) is licensed separately under the MIT License (see LICENSE).

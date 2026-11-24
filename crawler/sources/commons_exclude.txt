@@ -1,0 +1,86 @@
+# Commons の探索から除外するカテゴリ(1行1カテゴリ、正確なタイトル)
+# 除外したカテゴリの下はたどらない。カテゴリ探索の結果を見て随時追加する。
+
+# 装置・器具(錯視図ではなく機械の写真)
+Category:Stereoscopes
+Category:Phenakistoscope
+Category:Zoetrope
+Category:Zoopraxiscope
+
+# 自然現象・場所・建物の写真
+Category:Mirages
+Category:Flying ships in optical illusions
+Category:Gravity hills
+Category:Infinity edge pools
+Category:Camera tilt for buildings on steep ground
+Category:Optical illusions in Hong Kong
+
+# 鏡・舞台など、仕掛けの写真
+Category:Illusions created using mirrors
+Category:Objects in mirror are closer than they appear
+Category:Black light theatre
+Category:Stage sets
+Category:Images and videos depicting intentional intermixing of (related) realities
+
+# 2026-10-02: Trompe l'oeil / Anamorphosis / Pareidolias は収集対象に戻した(除外は後からでもできる)
+
+# --- 2026-10-02 カテゴリ探索(深さ3)の結果を見て追加 ---
+
+# アンビグラム(回転文字)。大半が企業ロゴで、錯視ではない(3,213ファイル中ほぼ全部)
+# ※ Reversible figure の下の「Figure-ground ambigrams」(図地反転)は残す
+Category:Ambigrams
+
+# 色彩理論の図(錯視ではない)
+Category:Additive colors
+Category:Subtractive colors
+Category:Complementary colors
+Category:Opponent colors
+Category:Partitive colors
+Category:Single colors
+Category:Wikipe-tan wearing The Dress
+
+# 月面の写真(模様の見立て)
+Category:Pareidolia on the Moon
+Category:Man in the Moon
+Category:Moon Rabbit
+Category:Golden handle
+Category:Gruithuisen city
+Category:Lunar X
+
+# 数学の結び目・曲面(不可能図形ではない)
+Category:Borromean rings
+Category:Moebius surfaces
+Category:Monkey's fists
+Category:Seifert surfaces
+
+# モアレの写真(布地・デジタル写真の撮影ノイズ)
+Category:Moiré (textile)
+Category:Moiré in digital photography
+
+# 美術館・建物・作家の写真全般
+Category:Henrique Matos
+Category:Jesús Soto Museum of Modern Art
+Category:Victor Vasarely museums
+Category:Rhombille tiling in art
+Category:Rishaba Kunjaram relief at the Airavatesvara Temple
+Category:PAC tilings with direction colors; rhombille
+
+# 船の迷彩塗装の写真、漫画表現
+Category:False bow waves
+Category:Seeing stars after being hit in art
+
+# --- 2026-10-03 Trompe l'oeil / Anamorphosis / Pareidolias を戻した後の探索結果から追加 ---
+# 判断: 錯視ではなく、公開時にも問題になりうるもの(人の顔の加工写真)と、天体・生物の写真を除外。
+# 岩や地形が顔や動物に見える写真(Anthropomorphic / Zoomorphic geographic features など)はパレイドリアの例として残す。
+
+# プライバシー保護のために顔を加工した人物写真(錯視ではない)
+Category:Intentionally blurred human faces
+Category:Human faces cloaked by censor bars
+
+# 天体写真
+Category:Horsehead Nebula
+Category:North America Nebula
+Category:Sombrero Galaxy
+
+# 生物の写真(カンザシゴカイ)
+Category:Spirobranchus giganteus

@@ -1,0 +1,26 @@
+# Wikidata で「optical illusion」(Q174923) の下にたどれるが、錯視ではない分類(1行1QID、# 以降はコメント)。
+# Wikidata では「特殊効果」などが錯視の下位分類として登録されているため、その配下(ソフトウェア・効果音など)が混ざる。
+# ここに挙げた分類とその配下はすべて除外する。2026-10-03 に件数の多い分類を見て判断。
+
+Q381243     # special effects(映像の特殊効果: Adobe Premiere、クロマキーなど)
+Q125572810  # special effect
+Q8317       # visual effects
+Q125561428  # visual effect
+Q15088947   # film effect
+Q7237336    # practical effect(特殊メイク、着ぐるみなど)
+Q1121886    # compositing(映像合成)
+Q138513241  # optical compositing
+Q71562226   # 合成技法(Sodium vapor process)
+Q5255461    # demo effect(デモシーンの画面効果: スクロールなど)
+Q181319     # scrolling
+Q768807     # sound effect(効果音)
+Q762316     # foley
+Q130668901  # cartoon sound effects
+Q7617919    # stock sound effect
+Q1295260    # audio time-scale/pitch modification
+Q1531860    # peal of bells(鐘の鳴らし方)
+Q7382101    # Russian Orthodox bell ringing
+Q1003090    # air horn
+Q113414203  # honk
+Q1345036    # degaussing(消磁)
+Q7514433    # silencing

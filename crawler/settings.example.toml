@@ -1,0 +1,23 @@
+# Crawler settings (copy to settings.toml and edit)
+
+# Contact address sent in the User-Agent (required by the Wikimedia User-Agent policy)
+contact = "you@example.org"
+
+[paths]
+work_dir = "work"                 # working DB, crawl state, HTTP cache, logs
+media_root = "/media/you"         # parent of the mounted image disks
+store_subdir = "illusions"        # folder inside each disk
+
+[storage]
+# mirrored pairs (primary, mirror); the next pair is used when the primary has less than reserve_gb free
+pairs = [["disk1", "disk2"]]
+reserve_gb = 20
+
+[commons]
+max_depth = 3
+api_interval_sec = 1.0
+download_interval_sec = 1.0
+max_file_mb = 200
+
+[nas]
+enabled = false

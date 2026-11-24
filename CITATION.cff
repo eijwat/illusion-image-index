@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this index, its labels or code, please cite it as below."
+title: "illusion-image-index: an index of visual-illusion images on the web, with labels and licences"
+authors:
+  - family-names: Watanabe
+    given-names: Eiji
+    orcid: "https://orcid.org/0000-0001-9089-8122"
+    affiliation: "National Institute for Basic Biology"
+license: MIT AND CC-BY-4.0
+repository-code: "https://github.com/eijwat/illusion-image-index"
+keywords:
+  - visual illusions
+  - image dataset
+  - perception
+  - vision-language models

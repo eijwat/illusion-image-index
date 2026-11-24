@@ -1,0 +1,354 @@
+qid,label_en,label_ja,description_en,description_ja,discoverer,inception,kind,core,n_languages,commons_category,found_via
+Q1000845,Buddhabrot,ブッダブロ,rendering technique related to the Mandelbrot set,,,,phenomenon,0,1,Buddhabrots,wiki_categories
+Q1001920,hallucinogen persisting perception disorder,フラッシュバック,non-psychotic disorder after a previous use of drugs,幻覚剤によって体験した感覚が突如として再現される現象,,,disorder,0,1,,wiki_categories
+Q1025099,shell game,シェルゲーム,confidence trick,,,,phenomenon,0,1,Shell game,wiki_categories
+Q10350033,Pirates of the Caribbean: Dead Men Tell no Tales,パイレーツ・オブ・カリビアン/最後の海賊,2017 film directed by Espen Sandberg and Joachim Rønning,2017年のアメリカのアクション映画,,,artwork,0,1,Pirates of the Caribbean: Dead Men Tell No Tales,wiki_categories
+Q104766915,The Vanishing Lady,,illusion trick,,,,phenomenon,0,2,,wiki_categories
+Q10518296,,,,,,,organization,0,1,,wiki_categories
+Q105540791,Illusion transmitter,,Optical device,,,,phenomenon,0,1,,wiki_categories
+Q10555053,Laurel Caverns,,cave in Pennsylvania,,,,place,0,2,Laurel Caverns,wiki_categories
+Q1062629,backmasking,逆再生,backward recording technique,,,,phenomenon,0,1,Backmasking,wiki_categories
+Q106366927,"Festoon, masks and rosettes made of shells",,painting by Jan van Kessel the Elder,,,1656,artwork,0,1,"Festons, masques et rosettes de coquillages",wiki_categories
+Q10667061,,,,,,,phenomenon,1,1,,wikidata_class+wiki_categories
+Q10685930,,,,,,,organization,0,1,,wiki_categories
+Q1072103,phosphene,眼閃,visual illusion,,,,phenomenon,1,3,Phosphene,wikidata_class+wiki_categories
+Q108773562,Mercury retrograde,,,,,,phenomenon,1,,,wikidata_class
+Q109361399,Carpentered World Hypothesis,大工世界仮説,,,,,phenomenon,0,1,,wiki_categories
+Q109362811,,蛇の回転,,,,,phenomenon,0,1,,wiki_categories
+Q110454952,,,,,,,phenomenon,1,1,,wikidata_class+wiki_categories
+Q110476948,Bourdon illusion,,,,,,phenomenon,1,2,,wikidata_class+wiki_categories
+Q1109371,Galle,ガレ・クレーター,Mars crater,,,,place,0,1,Galle (Martian crater),wiki_categories
+Q111599562,Hitler teapot,,Kettle perceived to resemble Adolf Hitler,,,,device,0,2,,wiki_categories
+Q11280700,,ゆうれい坂,,福岡県遠賀郡岡垣町にある坂,,,place,0,1,,wiki_categories
+Q11412391,infinity mirror,合わせ鏡,"parallel mirrors, creating reflections that appear to recede to infinity",2枚の鏡を向かい合わせに配置すること,,,phenomenon,1,9,Infinity mirrors,wikidata_class+wiki_categories
+Q11425,animation,アニメーション,method of creating moving pictures,連続して変化する複数の静止画像により動きを作る映像手法,Émile Reynaud,,device,1,3,Animations,wiki_categories
+Q114640,The Flying Dutchman,さまよえるオランダ人,opera by Richard Wagner,リヒャルト・ワーグナーのオペラ,,,artwork,0,1,The Flying Dutchman (opera),wiki_categories
+Q1147532,missing square puzzle,,optical illusion used in mathematics,,,,phenomenon,1,19,Missing square puzzle,enwiki_list+wiki_categories
+Q114896538,Koffka ring,,geometric optical illusion,,,,phenomenon,1,2,,wikidata_class+enwiki_list+wiki_categories
+Q114902166,,,,,,,phenomenon,1,1,,wikidata_class+wiki_categories
+Q1156879,active shutter 3D system,アクティブシャッター方式,technique of displaying stereoscopic 3D images,,,,phenomenon,1,4,,enwiki_list+wiki_categories
+Q115826074,Illusion of Kate Moss,,video illusion of Kate Moss from fashion show,,,,artwork,0,2,,wiki_categories
+Q116233291,Vanishing puzzle,,optical illusion,,,,phenomenon,1,2,,wikidata_class+enwiki_list+wiki_categories
+Q116285119,Museum of Illusions,,Croatian franchise of museums,,,,organization,0,1,,wiki_categories
+Q11640422,Motion-induced blindness,運動誘発盲,optical illusion,,,,phenomenon,1,3,,wikidata_class+wiki_categories
+Q11695670,Girl in a Picture Frame,額縁の中の少女,painting by Rembrandt,,,1641,artwork,0,2,The Girl in a Picture Frame by Rembrandt,wiki_categories
+Q11723296,stereoscope,ステレオスコープ,device for viewing a stereoscopic pair of separate images,ある光景の左眼と右眼それぞれからの見え方を再現する画像ペアを単一の3次元画像として見るための装置,,,device,1,10,Stereoscopes,wiki_categories
+Q1172965,flip book,パラパラマンガ,optical toy,,"Pierre-Hubert Desvignes, John Linett Barnes",,phenomenon,0,1,Flipbook,wiki_categories
+Q118342477,Museum of Illusions,,,,,2021,place,0,1,,wiki_categories
+Q1184010,Delboeuf illusion,デルブーフ錯視,optical illusion,,,,phenomenon,1,8,Delboeuf illusion,wikidata_class+enwiki_list+wiki_categories
+Q118612752,Scintillating grid illusion,,optical illusion,,,,phenomenon,1,,Scintillating grid illusion,wikidata_class
+Q118904283,Grid illusion,,kind of grid that deceives a person's vision,,,,phenomenon,1,3,,enwiki_list+wiki_categories
+Q11898843,radar angels,,radar artifact,,,,phenomenon,0,1,,wiki_categories
+Q1190645,Ponzo illusion,ポンゾ錯視,geometrical-optical illusion,錯視の一種,Mario Ponzo,,phenomenon,1,19,Ponzo illusion,wikidata_class+enwiki_list+wiki_categories
+Q1195386,checker shadow illusion,チェッカーシャドー錯視,optical illusion published by Edward H. Adelson,,,,phenomenon,1,21,Checker shadow illusion,wikidata_class+enwiki_list+wiki_categories
+Q1212937,The Ambassadors,大使たち,painting by Hans Holbein the Younger,,,1533,artwork,1,3,The Ambassadors (Holbein),wiki_categories
+Q12141,Penrose triangle,ペンローズの三角形,impossible object,不可能図形,"Q2032939, Lionel Penrose, Roger Penrose",,phenomenon,1,28,Penrose triangles,enwiki_list+wiki_categories
+Q1216977,Spinning Dancer,シルエット錯視,Optical illusion,,,,phenomenon,1,16,Spinning Dancer illusion,wiki_categories
+Q1218005,blind men and an elephant,群盲象を評す,"parable from the ancient Indian subcontinent, in which several blind men feel and try to conceptualize an elephant",インド発祥の寓話,,,artwork,0,1,Blind men and an elephant,wiki_categories
+Q123694281,Finger-pinching conspiracy theory,,conspiracy theory in South Korea,,,2021,organization,0,1,,wiki_categories
+Q124037975,Asahi Illusion,,optical illusion,,,,phenomenon,1,2,Asahi Illusion,wikidata_class+enwiki_list+wiki_categories
+Q125018717,transvestigation,トランスベスティゲーション‎,conspiracy theory regarding gender and sex,陰謀論のひとつ,,,organization,0,1,,wiki_categories
+Q1264442,forced perspective,遠近法,optical illusion,,,,phenomenon,1,10,Forced perspectives,wikidata_class+enwiki_list+wiki_categories
+Q1265869,Pandora and the Flying Dutchman,パンドラ,1951 film by Albert Lewin,,,,artwork,0,1,,wiki_categories
+Q1280859,Pepper's ghost,ペッパーズ・ゴースト,illusion technique,,,,phenomenon,1,15,Pepper's ghost,enwiki_list+wiki_categories
+Q1301091,Numerosity adaptation effect,,phenomenon in numerical cognition,,,,phenomenon,1,2,Numerosity adaptation effect,enwiki_list+wiki_categories
+Q130480163,,,,,,,place,1,,Tête du Lion,wikidata_class
+Q131553517,Chair Standing on its Head,,2001 sculpture by Wendell Castle,,,,artwork,0,1,,wiki_categories
+Q131925,multistable perception,多安定知覚,perceptual phenomenon,,,,phenomenon,1,2,,enwiki_list+wiki_categories
+Q1325829,Electric Brae,,"slope associated with an optical illusion, in South Ayrshire, Scotland, UK",,,,place,0,2,,wiki_categories
+Q134293135,Bullseye Illusion,,optical illusion,,,,phenomenon,1,2,,wikidata_class+wiki_categories
+Q134777821,Watlington White Mark,,"hill figure in Oxfordshire, England",,,,artwork,0,1,Watlington White Mark,wiki_categories
+Q135269837,,,museum in Germany,,,2024,place,0,1,,wiki_categories
+Q135733577,Segovia's Fingerprint,,oldest evidence of fingerprints and movable art with pigment attributed to humans,,,,artwork,1,,,wikidata_class
+Q13650772,motion aftereffect,,optical illusion,,,,phenomenon,1,3,Motion aftereffect,wikidata_class+enwiki_list+wiki_categories
+Q136860467,,,,,,,place,1,,La Savoyarde (massif des Bauges),wikidata_class
+Q13726073,The Goldfinch,ゴシキヒワ,"1654 painting by Carel Fabritius, Mauritshuis",,,1654,artwork,0,1,The Goldfinch by Carel Fabritius,wiki_categories
+Q13737234,Christ among the Doctors,,painting by a follower of Hieronymus Bosch,,,1545,artwork,0,1,,wiki_categories
+Q137439504,Brunnhorn,,mountain in Iceland,,,,place,1,,Brunnhorn,wikidata_class
+Q137579898,rubber pencil illusion,ラバーペンシルイリュージョン,,鉛筆が曲がって見える錯視,,,phenomenon,1,1,,wikidata_class+wiki_categories
+Q138772291,,,,,,,place,1,,Nez de Bœuf (massif du Piton des Neiges),wikidata_class
+Q140010327,Nagatoro Trick Art Yūrin Club,長瀞トリックアート有隣倶楽部,"former museum in Nagatoro, Saitama, Japan",,,,place,0,1,,wiki_categories
+Q1402048,Man in the Moon,月の男,perception of a man’s face or figure in the moon,,,,phenomenon,1,2,Pareidolia on the Moon,wikidata_class+wiki_categories
+Q1412040,figure–ground,,humans' ability to separate foreground from background in visual images,,,,phenomenon,1,5,,enwiki_list+wiki_categories
+Q141430116,Takao Trick Art Museum,高尾山トリックアート美術館,"trick art museum in Hachioji, Tokyo, Japan",東京都八王子市にあるトリックアート美術館,,1996,place,0,1,,wiki_categories
+Q1420132,RealD Cinema,RealD,brand name for technology used in 3D films,,,,device,0,1,RealD,wiki_categories
+Q14223667,Mainpat,,"village in Chhattisgarh, India",,,,place,0,1,,wiki_categories
+Q1430956,charlatan,シャーラタン,person engaging in deceptive practices,人を欺く行為をする者,,,phenomenon,0,1,Quackery,wiki_categories
+Q1431287,peripheral vision,周辺視野,part of vision that occurs on the edges of the field of vision,,,,phenomenon,0,2,,wiki_categories
+Q1451327,Fraser spiral illusion,フレイザー錯視,optical illusion,,,,phenomenon,1,9,Optical illusions,wikidata_class+enwiki_list+wiki_categories
+Q1456730,Troxler's fading,トロクスラー効果,optical illusion affecting visual perception,,,,phenomenon,1,13,,wikidata_class+enwiki_list+wiki_categories
+Q1465674,Sant'Ignazio Church,聖イグナツィオ教会,"church in Rome, Italy",,,1650,place,0,1,Sant'Ignazio (Rome),wiki_categories
+Q1479354,Fédération Internationale des Sociétés Magiques,FISM,organization,,,1948,organization,0,1,Fédération internationale des sociétés magiques,wiki_categories
+Q148442,stage magic,奇術,performing art involving the use of illusion,錯覚を用いた舞台芸術,,,phenomenon,0,1,Magic (illusion),wiki_categories
+Q14876643,Voyage of Slaves,,2006 novel by Brian Jacques,,,,artwork,0,1,,wiki_categories
+Q1510501,My Wife and My Mother-in-Law,嫁と義母,optical illusion,隠し絵,,1915,phenomenon,1,15,My Wife and My Mother-In-Law,wiki_categories
+Q151356,Fernsehturm Berlin,ベルリンテレビ塔,television tower in Berlin,ベルリンの電波塔,,1968,artwork,0,1,Berliner Fernsehturm,wiki_categories
+Q1542752,McGurk effect,マガーク効果,"perceptual phenomenon that occurs when the auditory component of one sound is paired with the visual component of another sound, leading to the perception of a third sound",,"Harry McGurk, John Macdonald",,phenomenon,1,1,,wikidata_class+wiki_categories
+Q1542758,Poggendorff illusion,ポゲンドルフ錯視,geometrical-optical illusion,,,,phenomenon,1,12,Poggendorff illusion,wikidata_class+enwiki_list+wiki_categories
+Q1553000,zograscope,ゾグラスコープ,Watching device for different optics,,,,phenomenon,0,1,Zograscope,wiki_categories
+Q1590827,House of Soviets,ソビエトの家,"former building in Kaliningrad, Russia",,,,place,0,1,"Dom Sovetov, Kaliningrad",wiki_categories
+Q1594629,Heikegani,ヘイケガニ,species of crustacean,十脚目ヘイケガニ科の動物,,,phenomenon,0,1,Heikeopsis japonica,wiki_categories
+Q161087,Pirates of the Caribbean: Dead Man's Chest,パイレーツ・オブ・カリビアン/デッドマンズ・チェスト,2006 film directed by Gore Verbinski,2006年のアメリカのアクション映画,,,artwork,0,1,Pirates of the Caribbean: Dead Man's Chest,wiki_categories
+Q16109969,Pag Triangle,,pareidolia and land formation in the shape of an irregular quadrilateral near the village Caska on the island Pag in Croatia,,,,place,1,1,Pag Triangle,wikidata_class+wiki_categories
+Q16294951,lenticular lens,レンチキュラーレンズ方式,technology for making moving or 3D images,,,,phenomenon,1,,,wikidata_class
+Q16333797,Rudolf II as Vertumnus,ウェルトゥムヌス,painting by Giuseppe Arcimboldo,ジュゼッペ・アルチンボルドが1590年に描いた絵画,,1591,artwork,0,1,Rudolf II as Vertumnus by Giuseppe Arcimboldo,wiki_categories
+Q1637700,paranoiac-critical method,「偏執狂的＝批判的」方法,surrealist technique for creation of artwork developed by Salvador Dalí,,Salvador Dalí,,device,0,1,,wiki_categories
+Q1639904,hybrid image,ハイブリッドイメージ,"image that is perceived in one of two different ways, depending on viewing distance",,,,phenomenon,1,4,Hybrid images,enwiki_list+wiki_categories
+Q164651,Virtual Boy,バーチャルボーイ,table-top video game console developed by Nintendo,任天堂が1995年に発売した3Dゲーム機,,,phenomenon,0,1,Virtual Boy,wiki_categories
+Q166564,sunset,日没,daily disappearance of the Sun below the western half of the horizon,時刻,,,phenomenon,0,1,Sunsets,wiki_categories
+Q1673175,irradiation illusion,,type oder illusion,,,,phenomenon,1,9,,wikidata_class+enwiki_list+wiki_categories
+Q16777461,Lunar pareidolia,,images seen by humans on the face of the Moon,,,,phenomenon,1,1,Pareidolia on the Moon,wikidata_class+wiki_categories
+Q16819803,mirascope,,optical instrument,,,,phenomenon,1,1,,wikidata_class+wiki_categories
+Q16927849,Talking Angela,,2012 chatbotter app,,,2012,artwork,0,1,Talking Angela (chatbot),wiki_categories
+Q17005602,Best Illusion of the Year Contest,世界錯覚コンテスト,,,,2005,phenomenon,0,1,,wiki_categories
+Q17007759,Chromostereopsis,,visual illusion whereby the impression of depth is conveyed in two-dimensional color images,,,,phenomenon,1,2,Chromostereopsis,wikidata_class+enwiki_list+wiki_categories
+Q17035301,Sky and Water I,空と水I,woodcut by M. C. Escher,,,1937,artwork,0,1,,wiki_categories
+Q170612,telepathy,テレパシー,fictional/magical phenomenon,人の考えを言語・表情・身振り等を使わずに伝達する、超能力のひとつ,,,fictional,0,1,Telepathy,wiki_categories
+Q17084606,correspondence problem,対応点問題,"ascertaining which parts of one image correspond to which parts of another image, where differences are due to movement of the camera, the elapse of time, and/or movement of objects in the photos",,,,phenomenon,0,1,,wiki_categories
+Q1709076,Cone Nebula,コーン星雲,h II region in the constellation Monoceros,,William Herschel,,phenomenon,0,1,Cone Nebula,wiki_categories
+Q17154561,tau effect,,psychological phenomenon,,,,phenomenon,0,1,,wiki_categories
+Q17324371,Portrait of Abraham de Potter,アブラハム・デ・ポッターの肖像,painting by Carel Fabritius,,,1649,artwork,0,1,Portrait of Abraham de Potter,wiki_categories
+Q17558104,Google Cardboard,Google Cardboard,"virtual reality head-mounted smartphone mount made of cardboard, designed by Google",,,,phenomenon,1,3,Google Cardboard,wiki_categories
+Q1760363,Phantasmagoria,ファンタスマゴリー,form of theatre that includes the use of magic lantarns,19世紀欧州で流行した幻灯機による興行、骸骨・悪霊・亡霊などを好んで映写した,,,phenomenon,1,6,Phantasmagoria,wiki_categories
+Q176953,rendering,レンダリング,producing image of 3D scene from precise specification using computer,数値データや数式を計算することで画像の画素を生成すること,,,phenomenon,0,1,Computer-generated images,wiki_categories
+Q1770610,Polo,ポロ (ドミニカ共和国),municipality of the Barahona Province in southwestern Dominican Republic,,,,place,0,2,Polo (Barahona),wiki_categories
+Q1788241,Hollow-Face illusion,ホロウマスク錯視,optical illusion,,,,phenomenon,1,4,Hollow mask illusions,wikidata_class+enwiki_list+wiki_categories
+Q18206980,Face on Moon South Pole,,region on the Moon which resembles a face,,,,phenomenon,1,,,wikidata_class
+Q182331,op art,オプ・アート,style of visual art that uses optical illusions,,,1960,organization,1,5,Op art,wiki_categories
+Q1850636,Necker cube,ネッカーの立方体,simple wire-frame drawing of a cube that can be perceived ambiguously with respect to the cube's orientation,,,,phenomenon,1,21,Necker cubes,enwiki_list+wiki_categories
+Q18578019,The Gardener,,painting by Giuseppe Arcimboldo,,,1587,artwork,0,1,Vegetable Gardener by Arcimboldo,wiki_categories
+Q18601924,The Cook,,painting by Giuseppe Arcimboldo,,,1570,artwork,0,1,The Cook (Giuseppe Arcimboldo),wiki_categories
+Q1866630,foreshortening,,visual effect or optical illusion that causes an object or distance to appear shorter than it actually is because it is angled toward the viewer,,,,device,1,,Foreshortening,wikidata_class
+Q1871689,Escher Museum,エッシャー美術館,Escher-Museum,オランダ、ハーグにあるエッシャーの美術館,,2002,place,0,1,Paleis Lange Voorhout,wiki_categories
+Q18946480,The Cross in the Wilderness,,painting by Thomas Cole,,,1845,artwork,0,1,La Croix dans la solitude,wiki_categories
+Q1900815,Bezold effect,ベツォルト効果,optical illusion that a color may appear different depending on its relation to adjacent colors,,,,phenomenon,1,10,Bezold effect,wikidata_class+enwiki_list+wiki_categories
+Q1921055,Meopta - optika,メオプタ,former Czech company,,,1933,organization,0,1,Meopta,wiki_categories
+Q19362881,The dress,The dress,viral phenomenon regarding the colour of a dress,,,,phenomenon,1,16,The dress,enwiki_list+wiki_categories
+Q196750,sawing a woman in half,,stage magic trick,,,,device,0,1,Sawing a woman in half,wiki_categories
+Q19947609,The Fruit Basket,,painting by Giuseppe Arcimboldo,,,1550,artwork,0,1,,wiki_categories
+Q20039314,,おまけたらふく舍,Japanese illustrator,,,,organization,0,1,,wiki_categories
+Q2035662,Hering illusion,ヘリング錯視,optical illusion,,,,phenomenon,1,13,Hering illusion,wikidata_class+enwiki_list+wiki_categories
+Q2050425,,,,,,,phenomenon,1,,,wikidata_class
+Q2066298,Thatcher effect,サッチャー錯視,optical illusion technique,,,,phenomenon,1,15,Thatcher effect,wikidata_class+wiki_categories
+Q2066340,Novaya Zemlya effect,,polar mirage caused by high refraction of sunlight between atmospheric thermal layers,,,,phenomenon,0,2,,wiki_categories
+Q20856875,DeepDream,ディープドリーム,computer vision software program,,,,phenomenon,0,1,Images generated by Deep Dream,wiki_categories
+Q2086896,gravity hill,グラビティヒル,"place where the layout of the surrounding land produces an optical illusion, making a slight downhill slope appear to be an uphill slope",地形,,,phenomenon,1,24,Gravity hills,enwiki_list+wiki_categories
+Q210659,Fata Morgana,ファタ・モルガーナ,optical phenomenon,,,,phenomenon,1,9,Fata Morgana (mirage),enwiki_list+wiki_categories
+Q21072708,Schroeder stairs,シュレーダーの階段,optical illusion,錯視の1つ,,,phenomenon,1,5,Schroeder stairs,wiki_categories
+Q21117699,Escaping Criticism,,painting by Pere Borrell del Caso,,,1875,artwork,0,1,Huyendo de la crítica,wiki_categories
+Q21514705,"Elephant Rock, Heimaey",,Rock formation in Iceland,,,,place,1,,"Elephant Rock, Heimaey",wikidata_class
+Q2152113,tabula scalata,,"pictures with two images divided into strips on different sides of a corrugated carrier, such that each image can be viewed correctly from a certain angle",,,,phenomenon,0,1,Tabula scalata,wiki_categories
+Q218273,zoetrope,回転のぞき絵,pre-cinema animation device,,William George Horner,,phenomenon,1,14,Zoetrope,enwiki_list+wiki_categories
+Q2197698,Newton disc,ニュートンの円盤,rotating disc with segments in rainbow colours that appears as white or grey when spun fast,虹の色で塗り分けた円盤,Isaac Newton,,phenomenon,1,3,Newton disc,wiki_categories
+Q2203407,Trompe l'oeil. The reverse of a framed painting.,,painting by Cornelis Norbertus Gysbrechts,,,1670,artwork,0,1,,wiki_categories
+Q2206122,Wundt illusion,ヴント錯視,optical illusion,ドイツの心理学者ヴィルヘルム・ヴントによって報告された錯視,,,phenomenon,1,14,Wundt illusion,wikidata_class+enwiki_list+wiki_categories
+Q221552,ambigram,アンビグラム,"calligraphic or typographic design, often symmetrical, that has multiple interpretations depending on orientation",,,,phenomenon,1,,Ambigrams,enwiki_list
+Q2227780,computronium,コンプトロニウム,theoretical arrangement of matter that is the best possible form of computing device for that amount of matter,,,,phenomenon,0,1,,wiki_categories
+Q2293082,escapology,脱出術,practice of escaping from restraints,,,,phenomenon,1,4,Escapology,wiki_categories
+Q229390,3D film,立体映画,stereoscopic film,立体的に表示される映画,,,phenomenon,1,3,Stereoscopy,wiki_categories
+Q2299505,Benham's top,ベンハムの独楽,a toy that creates an optical illusion when it is turned,,,,phenomenon,1,8,Benham's top,wikidata_class+wiki_categories
+Q2339591,Makapansgat pebble,,"pebble found by early humans, resembles a face",,,,phenomenon,0,1,,wiki_categories
+Q2343298,Still Life with Spherical Mirror,球面鏡のある静物,print by M. C. Escher,M. C. エッシャーによるリトグラフ,,1934,artwork,0,1,,wiki_categories
+Q2344696,grid illusion,ハーマングリッド,Optical illusion,,,,phenomenon,1,11,Grid illusion,wikidata_class+wiki_categories
+Q2349652,Still-Life with Partridge and Iron Gloves,ヤマウズラと籠手のある静物,"painting by Jacopo de' Barbari, Alte Pinakothek,",,,1504,artwork,0,1,Still-Life with Partridge and Iron Gloves (Jacopo de' Barbari),wiki_categories
+Q2363472,Ebbinghaus illusion,エビングハウス錯視,optical illusion,相対的な大きさ知覚 (size perception) に関連する、錯視の一種,Hermann Ebbinghaus,,phenomenon,1,22,Ebbinghaus illusion,wikidata_class+enwiki_list+wiki_categories
+Q2390890,Drawing Hands,描く手,lithograph by Dutch artist M. C. Escher,M. C. エッシャーによるリトグラフ,,1948,artwork,0,1,,wiki_categories
+Q23944888,Five Dollar Bill,,painting by Victor Dubreuil,,,1885,artwork,0,1,,wiki_categories
+Q241784,David Copperfield's flying illusion,フライング (デビッド・カッパーフィールド),levitation illusion performed by David Copperfield,,,,device,0,1,,wiki_categories
+Q2451309,leaning tower illusion,斜塔錯視,visual illusion seen in a pair of identical images of the Leaning Tower of Pisa,,,,phenomenon,1,7,,wikidata_class+enwiki_list+wiki_categories
+Q24525727,Sawyer's,,"American manufacturer and retailer of slide projectors, scenic slides, View-Master reels and viewers, postcards, and related products",,,1914,organization,0,1,Sawyer's,wiki_categories
+Q2453940,Rubin vase,ルビンの壺,optical illusion developed by Edgar Rubin,,Edgar Rubin,,phenomenon,1,13,Rubin's vase,enwiki_list+wiki_categories
+Q2454258,,,,,,,phenomenon,1,,,wikidata_class
+Q2479234,Jastrow illusion,ジャストロー錯視,optical illusion,,,,phenomenon,1,17,Jastrow illusion,wikidata_class+enwiki_list+wiki_categories
+Q24804942,Oppel-Kundt illusion,オッペル・クント錯視,optical illusion,,,,phenomenon,1,4,,enwiki_list+wiki_categories
+Q24868410,Atami Trick Art Museum,熱海トリックアート迷宮館,,静岡県熱海市にある娯楽施設,,,place,0,1,,wiki_categories
+Q2492951,Underwood & Underwood,,American photo studio and photo agency,,,1880,place,0,1,Underwood & Underwood,wiki_categories
+Q25053695,crater/dome illusion,クレーター錯視,optical illusion,,,,phenomenon,1,3,,wikidata_class+enwiki_list+wiki_categories
+Q25110511,motion silencing illusion,,visual phenomenon,,,,phenomenon,1,1,,wikidata_class+enwiki_list+wiki_categories
+Q2525064,The Sea That Thinks,,2000 film by Gert de Graaff,,,,artwork,0,2,,wiki_categories
+Q2529899,Camera degli Sposi,夫婦の間,"room frescoed with illusionistic paintings by Andrea Mantegna in the Ducal Palace, Mantua, Italy",,,1500,artwork,0,1,"Camera degli Sposi, Palazzo Ducale, Mantua",wiki_categories
+Q2563885,color constancy,色覚恒常,how humans perceive color,,,,phenomenon,1,6,Color constancy,enwiki_list+wiki_categories
+Q2611480,isometric illusion,,,,,,phenomenon,1,2,,wikidata_class+wiki_categories
+Q2629943,illusory contour,主観的輪郭,visual illusion that evokes the perception of an edge without a luminance or color change across that edge,,,,phenomenon,1,8,Illusory contours,enwiki_list+wiki_categories
+Q2635126,Waterfall,滝,lithograph print by M. C. Escher,M. C. エッシャーによるリトグラフ,,1961,artwork,1,8,,wiki_categories
+Q2641583,Sander illusion,ザンダー錯視,optical illusion,,,,phenomenon,1,11,Sander illusion,wikidata_class+enwiki_list+wiki_categories
+Q26468,moiré pattern,モアレ,interference pattern,,,,phenomenon,0,1,Moiré,wiki_categories
+Q2661088,Orbison illusion,オービソン錯視,optical illusion,,,,phenomenon,1,11,Orbison illusion,wikidata_class+enwiki_list+wiki_categories
+Q2696652,peripheral drift illusion,,type of optical illusion,,,,phenomenon,1,3,Peripheral drift illusion,wikidata_class+enwiki_list+wiki_categories
+Q2710027,Corystes cassivelaunus,,species of crustacean,,,,phenomenon,0,1,Corystes cassivelaunus,wiki_categories
+Q2711120,ashen light,アシェン光,hypothesised glow in Venus's light,,Giovanni Battista Riccioli,,phenomenon,0,1,,wiki_categories
+Q2720909,artifact,アーチファクト,error in the perception or representation of any visual or aural information,,,,phenomenon,1,9,Artifacts (errors),wiki_categories
+Q2745630,false flat,,"part of a cycling course that appears to be level, but in fact has a steep grade",,,,phenomenon,1,1,,wikidata_class+wiki_categories
+Q2745946,Castaways of the Flying Dutchman,,2001 novel by Brian Jacques,,,,phenomenon,0,1,,wiki_categories
+Q27955561,Sabine,,painting by Alison Watt,,,2000,artwork,0,1,,wiki_categories
+Q279956,thaumatrope,ソーマトロープ,"optical toy, a disk with a picture on each side and a string that creates the illusion of movement when spinning",,"John Ayrton Paris, William Henry Fitton, Charles Babbage",,phenomenon,1,17,Thaumatrope,enwiki_list+wiki_categories
+Q28203,Purkinje effect,プルキニェ現象,Tendency for the peak luminance sensitivity of the human eye to shift toward the blue end of the color spectrum at low illumination levels,,Jan Evangelista Purkyně,,phenomenon,0,2,,wiki_categories
+Q28682124,Watanabe Kenichi Trick Art Museum,渡辺健一トリックアート美術館,"museum in Nagoya City, Aichi, Japan",名古屋市昭和区の私設美術館,,,place,0,1,,wiki_categories
+Q2881498,Chubb illusion,チャブ錯視,optical illusion,,,,phenomenon,1,6,Chubb illusion,wikidata_class+enwiki_list+wiki_categories
+Q2899258,Hand with Reflecting Sphere,写像球体を持つ手,lithograph by Dutch artist M. C. Escher,M. C. エッシャーによるリトグラフ,,1935,artwork,0,1,,wiki_categories
+Q2915442,café wall illusion,カフェウォール錯視,optical illusion,,,,phenomenon,1,15,Cafe wall illusion,wikidata_class+enwiki_list+wiki_categories
+Q2919468,Belvedere,物見の塔,lithograph print by the Dutch artist M. C. Escher,M. C. エッシャーによるリトグラフ,,1958,artwork,1,7,,wiki_categories
+Q2936146,rabbit–duck illusion,ウサギとアヒル,optical illusion,,Joseph Jastrow,,phenomenon,1,13,Rabbit–duck illusion,wikidata_class+wiki_categories
+Q29589,autostereogram,,single-image stereogram designed to create the visual illusion of a three-dimensional scene,,,,phenomenon,1,15,Autostereograms,enwiki_list+wiki_categories
+Q29643035,Ttrmpe l'oiel with oilsketches and drawings,,painting by Louis Léopold Boilly,,,1800,artwork,0,1,,wiki_categories
+Q29644955,Seated Nude,,painting by Christoffer Wilhelm Eckersberg,,,1839,artwork,0,1,Nu assis,wiki_categories
+Q2998796,impossible color,不可能な色,color that cannot be perceived under ordinary viewing conditions,,,,phenomenon,0,1,Impossible colors,wiki_categories
+Q3053964,spot the difference,間違い探し,type of puzzle,,,,phenomenon,0,1,Spot the difference,wiki_categories
+Q3069747,Cornsweet illusion,クレイク・オブライエン・コーンスウィート錯視,optical illusion,,,,phenomenon,1,7,Cornsweet illusion,wikidata_class+enwiki_list+wiki_categories
+Q30880559,Gonzaga Gallery,,the Gonzaga Gallery in Pavlovsk,,,1807,place,0,1,The Gonzaga Gallery,wiki_categories
+Q30931573,Trick Art Pia Nikkō,とりっくあーとぴあ日光,museum in Japan,栃木県日光市にある美術館,,,place,0,1,,wiki_categories
+Q3126100,Halle de la Flèche,ラフレッシュ劇場,"market hall and theatre in La Flèche, France",ラフレッシュの屋内市場と劇場（フランス）。フランス語の通称は「菓子箱」,,,place,0,1,Halle de la Flèche,wiki_categories
+Q3209645,Sensorium,Sensorium,traveling carnival,,,,place,0,1,,wiki_categories
+Q3273530,Badlands Guardian,バッドランズ・ガーディアン,geomorphological feature in Canada,,,,place,1,,,wikidata_class
+Q3306492,Beta movement,ベータ運動,illusion of movement where two or more still images are combined by the brain into surmised motion,,,,phenomenon,1,12,Beta phenomenon,wikidata_class+enwiki_list+wiki_categories
+Q3308885,Ghost light,,"light that appears in a small area known locally as the ""Devil's Promenade""",,,,phenomenon,0,1,,wiki_categories
+Q331824,terminator,明暗境界線,moving line that separates the illuminated day side and the dark night side of a planetary body,,,,phenomenon,1,,Terminator,enwiki_list
+Q3325180,Kanizsa triangle,カニッツァの三角形,,錯視図形のひとつ,,,phenomenon,1,7,Kanizsa triangle,wiki_categories
+Q336574,Pulfrich effect,プルフリッヒ効果,perception of 3D scene from a sideways moving image,,,,phenomenon,1,6,,enwiki_list+wiki_categories
+Q35158,stereoscopy,3次元映像,technique for creating or enhancing the illusion of depth in an image,観察者から立体的に見える映像,,,device,1,9,Stereoscopy,wiki_categories
+Q3542657,Tyco Toys,タイコ,defunct toy manufacturer and brand,,,1926,organization,0,1,,wiki_categories
+Q356186,lenticular printing,レンチキュラー,"Lenticular printing is a specialized technique that layers an interlaced image with a lenticular lens sheet to create the illusion of 3D depth, motion, or shifting images as the viewing angle changes.",,,,phenomenon,0,2,Lenticular printing,wiki_categories
+Q3622748,Ehrenstein illusion,エーレンシュタイン錯視,optical illusion,,,,phenomenon,1,6,Ehrenstein illusion,wikidata_class+enwiki_list+wiki_categories
+Q3623938,Sphinx,,natural rock formation in the Bucegi Mountains in Romania,,,,phenomenon,0,1,Bucegi Sphinx,wiki_categories
+Q3699867,Cydonia,シドニア,mensa on Mars,,,,place,1,3,Cydonia Mensae,wiki_categories
+Q371198,unobtainium,アンオブタニウム,fictional material,,,,phenomenon,0,1,,wiki_categories
+Q3746908,Flying Dutchman,フライング・ダッチマン,Great Western Railway (GWR) express passenger train service that ran from 1849 until 1892,,,1849,phenomenon,0,1,,wiki_categories
+Q3774259,lilac chaser,,optical illusion,,,,phenomenon,1,5,,enwiki_list+wiki_categories
+Q378145,Ascending and Descending,上昇と下降,1960 lithograph by M. C. Escher,エッシャーの描いたリトグラフ,,1960,artwork,1,7,,wiki_categories
+Q39252,Flying Dutchman,フライング・ダッチマン,legendary ghost ship,,,,phenomenon,1,9,Flying Dutchman (ship),wiki_categories
+Q41702235,Pitcher and Violin,,painting by Georges Braque,,,1909,artwork,0,1,,wiki_categories
+Q426943,Lunar X,,"clair-obscur effect in which light and shadow creates the appearance of a letter 'X' on the rim of the Blanchinus, La Caille and Purbach craters",,,,phenomenon,1,1,Lunar X,wikidata_class+wiki_categories
+Q4274077,Magnetic Hill,,"Cyclop hill at Leh, India",,,,place,0,2,Magnetic Hill (India),wiki_categories
+Q43261,horizon,地平線,apparent line that separates earth from sky,地面と空の境に見える部分,,,phenomenon,1,,Horizons,enwiki_list
+Q4441718,,,,,,,phenomenon,1,,,wikidata_class
+Q447201,three hares,三羽のウサギ,traditional motif showing three hares sharing ears,,,,phenomenon,1,3,Three hares,wiki_categories
+Q461813,size–weight illusion,,perceptional illusion,,,,phenomenon,1,1,,enwiki_list+wiki_categories
+Q468930,trompe-l'œil,トロンプ・ルイユ,art technique of illusory tridimensionality,騙し絵､トリックアートの意,,,phenomenon,1,24,Trompe l'oeil,enwiki_list+wiki_categories
+Q470228,Ames room,エイムズの部屋,distorted room that creates an optical illusion,,"Adelbert Ames, Jr.",,phenomenon,1,25,Ames room,enwiki_list+wiki_categories
+Q4741453,ambiguous image,,optical illusion image which exploits graphical similarities between two or more distinct image forms,,,,phenomenon,1,12,Reversible figure,enwiki_list+wiki_categories
+Q4745894,Ames trapezoid,エイムズの台形,trapezoid that appears as rectangular,,"Adelbert Ames, Jr.",,phenomenon,1,6,Ames trapezoid,enwiki_list+wiki_categories
+Q4780230,Apolinère Enameled,,assisted Readymade by Marcel Duchamp,,,1916,artwork,0,1,,wiki_categories
+Q484031,anaglyph imaging,アナグリフ3D,method of representing images in 3D; method for creating and viewing images in 3D,,,,phenomenon,1,5,Anaglyphs,wiki_categories
+Q4840811,Badge man,バッジマン,Unverified person allegedly present during the assassination of President John F. Kennedy in 1963,,,,fictional,0,1,,wiki_categories
+Q488532,Rorschach Test,ロールシャッハ・テスト,psychological test in which subjects' perceptions of inkblots are recorded and analyzed,投影法による性格検査の一つ,,,device,0,2,Rorschach inkblots,wiki_categories
+Q4983224,Buckingham Mountain,,"mountain in Bucks County, Pennsylvania, United States",,,,place,0,2,,wiki_categories
+Q5053924,catoptric cistula,,,,,,phenomenon,1,1,,enwiki_list+wiki_categories
+Q506422,pareidolia,パレイドリア,psychological effect of observing human faces in inanimate objects,心理現象の一種,,,phenomenon,1,28,Pareidolias,wikidata_class+enwiki_list+wiki_categories
+Q5072966,chapeaugraphy,帽子芸,novelty act in which a ring-shaped piece of felt is manipulated to look like various types of hats,,Antoine Girard,,phenomenon,0,1,,wiki_categories
+Q508993,persistence of vision,視覚現象,optical illusion that occurs when visual perception of an object does not cease for some time after the rays of light proceeding from it have ceased to enter the eye,,,,phenomenon,1,,Persistence of vision,wikidata_class
+Q5148635,Color phi phenomenon,,optical illusion,,,,phenomenon,1,3,,enwiki_list+wiki_categories
+Q5160318,Confusion Hill,,amusement park in California,,,,place,0,1,Confusion Hill,wiki_categories
+Q5165365,contingent perceptual aftereffect,,after-image resulting from a induction stimulus,,,,phenomenon,1,1,,wikidata_class+enwiki_list+wiki_categories
+Q5166385,Convergence micropsia,,medical condition,,,,phenomenon,1,1,,enwiki_list+wiki_categories
+Q5192217,Cube with Magic Ribbons,,"lithograph print by M. C. Escher, first printed in 1957",,,1957,artwork,0,1,,wiki_categories
+Q520157,Pandariya,パンダリヤ,"town in Kabeerdham district, Chhattisgarh, India",,,,place,0,2,,wiki_categories
+Q5247094,Death Came Through a Phantom Ship,,album by Carach Angren,,,,artwork,0,1,,wiki_categories
+Q5255315,Demi's Birthday Suit,,photograph by Annie Leibovitz,,,1992,artwork,1,3,,wiki_categories
+Q527628,holography,ホログラフィー,photographic technique using diffraction to produce three-dimensional images,,,,device,1,4,Holography,wiki_categories
+Q5281295,Disappearing Model,,body painting by Joanne Gair,,,,phenomenon,1,2,,enwiki_list+wiki_categories
+Q53998143,flicker,,"directly visible change in brightness of a light source: fluctuations of the light source itself, or rapid fluctuations in the voltage of the power supply or incompatibility with an external dimmer",,,,phenomenon,0,2,Flickering lamps,wiki_categories
+Q54274,Pirates of the Caribbean: At World's End,パイレーツ・オブ・カリビアン/ワールド・エンド,2007 film directed by Gore Verbinski,2007年のアメリカのアクション映画,,,artwork,0,1,Pirates of the Caribbean: At World's End,wiki_categories
+Q5428491,Faces in Places,,,,,2007,phenomenon,0,1,,wiki_categories
+Q5438393,faux bois,,artistic imitation of wood,,,,artwork,0,1,Faux bois,wiki_categories
+Q5439875,Fechner color,主観色,illusion of color seen when looking at certain rapidly changing or moving black-and-white patterns,,,,phenomenon,1,6,,wikidata_class+enwiki_list+wiki_categories
+Q5448821,filling-in,フィリングイン,Phenomena in vision,,,,phenomenon,1,2,,wikidata_class+enwiki_list+wiki_categories
+Q5457559,flash lag illusion,閃光遅延効果,optical illusion,,,,phenomenon,1,5,,wikidata_class+enwiki_list+wiki_categories
+Q5457610,flashed face distortion effect,,visual illusion,,,,phenomenon,1,4,,wikidata_class+wiki_categories
+Q5463400,Flying Dutch,,1991 novel by Tom Holt,,,,artwork,0,1,,wiki_categories
+Q5535501,geometrical-optical illusion,,type of optical illusion,,,,phenomenon,1,3,Geometrical-optical illusions,wikidata_class+wiki_categories
+Q55633994,stepping feet illusion,,optical illusion involving two rectangles (one blue and one yellow) moving across a series of black and white stripes,,,,phenomenon,1,1,Stepping feet illusion,wikidata_class+enwiki_list+wiki_categories
+Q56313798,Shepard tables,,optical illusion,,,,phenomenon,1,4,Shepard's tables,wiki_categories
+Q568742,3D modeling,3Dモデリング,process of developing a mathematical representation of any three-dimensional surface of object via specialized software,,,,phenomenon,0,1,3D modeling,wiki_categories
+Q5705198,Helicopter hieroglyphs,,Egyptian carvings misinterpreted as depicting helicopters,,,,artwork,1,6,Helicopter hieroglyphs (Temple of Seti I in Abydos),wiki_categories
+Q571201,barberpole illusion,サインポール錯視,visual illusion,,,,phenomenon,1,10,Barberpole illusion,wikidata_class+enwiki_list+wiki_categories
+Q5849717,stroboscopic effect,ストロボ効果,visual phenomenon,視覚現象の一種,,,phenomenon,1,12,Stroboscopic effect,wikidata_class+enwiki_list+wiki_categories
+Q58914,Penrose stairs,ペンローズの階段,impossible object,不可能図形,"Lionel Penrose, Roger Penrose, Q2032939",,phenomenon,1,27,Penrose stairs,enwiki_list+wiki_categories
+Q58969,Face on Mars,火星の人面岩,pareidolia seen in a photograph of the surface of Mars,人の顔に見える火星の岩,,,phenomenon,0,1,Face of Mars,wiki_categories
+Q5905837,horsemaning,,"posing for a photograph such that the subject appears to have been beheaded, their head resting on the ground or on a surface",,,,phenomenon,1,3,Horsemanning,wiki_categories
+Q5915451,House of Stairs,階段の家,lithograph print by Dutch artist M. C. Escher,,,1951,artwork,0,2,,wiki_categories
+Q595763,Orroroo,,town in South Australia,,,,place,0,1,"Orroroo, South Australia",wiki_categories
+Q6000551,illusory motion,運動錯覚,optical illusion in which a static image appears to be moving,,,,phenomenon,1,3,,enwiki_list+wiki_categories
+Q601362,impossible object,不可能図形,two-dimensional figure representing a projection of a three-dimensional object that cannot exist,,,,phenomenon,1,29,Impossible objects,enwiki_list+wiki_categories
+Q60191888,,,,,,1976,artwork,0,1,,wiki_categories
+Q6029100,Aubert's phenomenon,,,,,,phenomenon,1,,,wikidata_class
+Q6047928,,,,,,,phenomenon,1,1,,wikidata_class+wiki_categories
+Q60575958,Wadi Al Baida,,"valley in Medina Province, Saudi Arabia",,,,place,0,2,,wiki_categories
+Q60988082,Nasu Trick Art Museum,那須とりっくあーとぴあ,"art museum in Nasu, Tochigi, Japan",栃木県那須町にあるトリックアート美術館,,,place,0,1,Nasu Trick Art Museum,wiki_categories
+Q619904,dolly zoom,ドリーズーム,camera effect,,Sergiu Huzum,,device,0,2,,wiki_categories
+Q6214737,Jogeshwari – Vikhroli Link Road,,road in Mumbai,,,1994,place,0,1,Jogeshwari–Vikhroli Link Road,wiki_categories
+Q622761,Moon rabbit,月の兎,mythical creature in Asian folklore who lives on the Moon,,,,fictional,1,3,Moon Rabbit,wiki_categories
+Q623020,lithophane,,"etched or molded artwork in very thin translucent porcelain, intended to be backlit",,,,phenomenon,0,1,Lithophane,wiki_categories
+Q63221136,Shepard elephant,,optical illusion,,Roger Shepard,,phenomenon,1,3,,wiki_categories
+Q6354157,Kalo Dungar,,mountain in India,,,,place,0,1,Kalo Dungar,wiki_categories
+Q636333,De Vliegende Hollander,,Attraction in themepark the Efteling,,,2007,place,0,1,De Vliegende Hollander,wiki_categories
+Q6367098,kappa effect,,systematic perceptual error in judging the time between stimuli,,,,phenomenon,1,4,,wiki_categories
+Q6410776,kinetic depth effect,,phenomenon of visual perception,,,,phenomenon,1,,Kinetic depth effect,enwiki_list
+Q6425144,Kodak Stereo Camera,,35mm film stereo camera produced 1954-59,,,,phenomenon,0,1,,wiki_categories
+Q649340,Alice in Wonderland syndrome,不思議の国のアリス症候群,neuropsychological condition,ものの大きさに関する様々な主観的イメージの変容を引き起こす症候群,Raoul Leroy,,disorder,1,3,,wiki_categories
+Q65078347,Fröhlich effect,,,,,,phenomenon,1,1,,wikidata_class+wiki_categories
+Q655333,Zöllner illusion,ツェルナー錯視,optical illusion,,,,phenomenon,1,16,,wikidata_class+enwiki_list+wiki_categories
+Q655405,Mach bands,マッハバンド,optical illusion,,,,phenomenon,1,17,Mach bands,enwiki_list+wiki_categories
+Q660994,impossible trident,ブリヴェット,impossible object or optical illusion,,,,phenomenon,1,15,Blivet,enwiki_list+wiki_categories
+Q6728418,Madonna of the Toast,,2007 book about pareidolia,,,,artwork,0,1,,wiki_categories
+Q6730687,Magic Eye,マジックアイ (書籍),book series with hidden 3D images,,,,phenomenon,0,2,,wiki_categories
+Q6800435,McCollough effect,,Human visual perception phenomenon,,,,phenomenon,1,6,McCollough effect,wikidata_class+enwiki_list+wiki_categories
+Q6823054,Metamorphosis III,,M. C. Escher woodcut print,,,1967,artwork,0,1,,wiki_categories
+Q6902798,Monster Pig,,giant pig,,,,phenomenon,0,2,,wiki_categories
+Q6993458,neon color spreading,,optical illusion,,,,phenomenon,1,2,Neon color spreading,wikidata_class+wiki_categories
+Q7075100,Objects in mirror are closer than they appear.,,safety warning,,,,phenomenon,1,3,Objects in mirror are closer than they appear,wiki_categories
+Q7166989,Perceived visual angle,,,,,,phenomenon,1,1,,enwiki_list+wiki_categories
+Q7180531,Phantogram,,type of optical illusion,,,,phenomenon,1,2,Anamorphosis,enwiki_list+wiki_categories
+Q7232319,Portrait of a Carthusian,カルトジオ会修道士の肖像,painting by Petrus Christus,,,1446,artwork,0,1,Portrait of a Carthusian by Petrus Christus,wiki_categories
+Q733482,GoPro,GoPro,American technology company,,,2002,organization,0,1,GoPro,wiki_categories
+Q735197,afterimage,残像効果,perception that continues after stimulus,,,,phenomenon,1,17,Afterimage illusions,wikidata_class+enwiki_list+wiki_categories
+Q736234,Emmert's law,エンメルトの法則,law,,,,phenomenon,0,2,,wiki_categories
+Q736496,Overture of 'The Flying Dutchman' as played at sight by a bad spa orchestra at the well at 7 in the morning,朝7時に湯治場で二流のオーケストラによって初見で演奏された「さまよえるオランダ人」序曲,composition for string quartet by Paul Hindemith,パウル・ヒンデミット作曲の室内楽曲,,1925,artwork,0,1,,wiki_categories
+Q73649929,Vista paradox,,optical illusion in which an object seen through an aperture appears to shrink in apparent size as the observer approaches the aperture,,,,phenomenon,1,2,Vista paradox,wikidata_class+enwiki_list+wiki_categories
+Q73663693,Cannocchiale di Bologna,,"gallery in the Michele in Bosco Monastery, Bologna, Italy, 500 ft long, cleverly designed to create an optical illusion (vista paradox) involving the aerial view of the 4603 ft distant Asinelli tower, seen as if through a telescope",,,,phenomenon,1,,Cannocchiale di Bologna,wikidata_class
+Q741976,Moon illusion,月の錯視,optical illusion which causes the Moon to appear larger near the horizon than it does higher up in the sky,地平線近くに見える月が大きく見えること,,,phenomenon,1,25,Moon illusions,wikidata_class+enwiki_list+wiki_categories
+Q7426243,Satire on False Perspective,,print by William Hogarth,,,1754,artwork,0,2,,wiki_categories
+Q7462910,autostereoscopy,オートステレオスコピー,any method of displaying stereoscopic images (adding binocular perception of 3D depth) without the use of special headgear or glasses on the part of the viewer,,,,phenomenon,0,2,Autostereoscopy,wiki_categories
+Q752712,volumetric display,体積型ディスプレイ,3D graphic display device,,,,phenomenon,1,,Volumetric display,enwiki_list
+Q7537569,Sky and Water II,,1938 lithograph print by M. C. Escher,,,1938,artwork,0,1,,wiki_categories
+Q7575257,Spectropia,,book by John Henry Brown,,,,artwork,0,1,"Spectropia, or, Surprising spectral illusions",wiki_categories
+Q7578980,SpongeBob SquarePants: Revenge of the Flying Dutchman,,2002 video game,,,,artwork,0,1,,wiki_categories
+Q7579085,Spook Hill,,gravity hill in Florida,,,,phenomenon,0,1,Spook Hill,wiki_categories
+Q760721,chronostasis,クロノスタシス,distortion in the perception of time,錯覚の一つ,,,phenomenon,0,2,,wiki_categories
+Q7675623,Tahoe Tessie,タホ・テッシー,"mythical creature in Lake Tahoe, California and Nevada, USA",,,,fictional,0,1,,wiki_categories
+Q7696427,teleopsia,,vision perception disorder,,,,phenomenon,0,1,,wiki_categories
+Q7702968,Ternus illusion,,illusion of apparent movement,,,,phenomenon,1,1,Ternus illusion,wikidata_class+enwiki_list+wiki_categories
+Q7713731,The Angel's Command,,2003 novel by Brian Jacques,,,,artwork,0,1,,wiki_categories
+Q7728155,The Crooked House,,"demolished public house in Himley, South Staffordshire, England",,,1765,place,0,1,The Crooked House,wiki_categories
+Q7734582,The Flying Dutchman discography,,Wikimedia discography of dramatico-musical work,,,,phenomenon,0,1,,wiki_categories
+Q7734583,The Flying Dutchman,ザフライングダッチマン,horse,,,,phenomenon,0,1,The Flying Dutchman (horse),wiki_categories
+Q7740102,The Homeward Bounders,,1981 novel by Diana Wynne Jones,,,,artwork,0,1,,wiki_categories
+Q7749561,Magnetic Hill,,gravity hill in Moncton,,,,place,0,2,Magnetic Hill (Moncton),wiki_categories
+Q776050,Brocken spectre,ブロッケン現象,magnified shadow of an observer cast upon clouds opposite the Sun's direction,大気光学現象のひとつ,,,phenomenon,1,9,Brocken spectres,wiki_categories
+Q7775619,The Wonder Spot,,"Tourist attraction in Wisconsin, USA",,,,place,0,1,,wiki_categories
+Q777994,watercolor illusion,,optical illusion,,,,phenomenon,1,3,Watercolor illusion,wikidata_class+wiki_categories
+Q7804964,Time Cube,タイムキューブ,American conspiracy website,,,1997,organization,0,1,Time Cube,wiki_categories
+Q7820422,Tomytronic 3D,トミー 3D立体グラフィックゲーム,"portable handheld gaming device, manufactured by Tomy",,,,phenomenon,0,1,Tomytronic 3D,wiki_categories
+Q782462,autokinetic effect,,optical illusion,,,,phenomenon,1,7,,enwiki_list+wiki_categories
+Q785272,Phi phenomenon,ファイ現象,optical illusion of perceiving continuous motion between separate objects viewed rapidly in succession,,,,phenomenon,1,20,Phi phenomenon,wikidata_class+enwiki_list+wiki_categories
+Q7863000,U.S.A.,,painting by John Haberle,,,1889,artwork,0,2,,wiki_categories
+Q7922868,vertical–horizontal illusion,フィック錯視,optical illusion,,,,phenomenon,1,5,,wikidata_class+enwiki_list+wiki_categories
+Q7936627,Visual tilt effects,,optical Illusion,,,,phenomenon,1,1,Visual tilt effects,wikidata_class+enwiki_list+wiki_categories
+Q7959642,wagon-wheel effect,ワゴンホイール効果,optical illusion,,,,phenomenon,1,9,,wikidata_class+enwiki_list+wiki_categories
+Q7994252,White's illusion,ホワイト効果,optical illusion,,,,phenomenon,1,4,White's illusion,wikidata_class+enwiki_list+wiki_categories
+Q7999615,wiggle stereoscopy,,3-D image display method,,,,device,0,2,Stereoscopic 3D files (wiggle),wiki_categories
+Q81628961,,,,,,1946,organization,0,1,,wiki_categories
+Q825337,Dichroic prism,,optical device that splits light into two optical beams,,,,device,0,1,Polychroic prisms,wiki_categories
+Q835216,Weber–Fechner law,ヴェーバー‐フェヒナーの法則,psychophysics law that the minimum perceptible increase of stimulus is proportional to the stimulus and that intensity of our sensation increases logarithmically,,,,phenomenon,0,1,Weber-Fechner law,wiki_categories
+Q840202,Davy Jones,,fictional character from Pirates of the Caribbean,,,,fictional,0,1,Davy Jones,wiki_categories
+Q847175,Jacob's ladder,板返し,toy,,,,phenomenon,0,1,Jacobs Ladder (toy),wiki_categories
+Q854423,Bezold–Brücke shift,,change in hue perception as light intensity changes,,,,phenomenon,0,1,,wiki_categories
+Q894166,Borromean rings,ボロミアン環,link of three loops; simplest Brunnian link,,,,phenomenon,1,6,Borromean rings,wiki_categories
+Q919581,The Phantom Ship,幽霊船,book,,,1837,phenomenon,0,1,The Phantom Ship,wiki_categories
+Q926299,Müller-Lyer illusion,ミュラー・リヤー錯視,optical illusion,錯視,,,phenomenon,1,19,Müller-Lyer illusion,wikidata_class+enwiki_list+wiki_categories
+Q93142123,Museum of Illusions Ljubljana,,,,,,place,0,1,Museum of Illusions Ljubljana,wiki_categories
+Q93717,cold reading,コールド・リーディング,"set of techniques used by mentalists, psychics, fortune-tellers, and mediums",,,,device,0,1,,wiki_categories
+Q96655621,,,,,,,phenomenon,0,1,,wiki_categories
+Q96722956,,,,,,,phenomenon,0,1,,wiki_categories
+Q98374129,chessboard paradox,チェス盤の逆説,mathematical paradox and logic puzzle,,,,phenomenon,1,3,Missing square puzzle,wiki_categories
+Q98390306,Hooper's paradox,フーパーの逆説,Optical illusion,,,,phenomenon,1,3,,wiki_categories
+Q99435796,Still Life with Bottles and Books,,anonymous Renaissance trompe-l'oeil painting,,,1525,artwork,0,1,Still Life with Bottles and Books,wiki_categories
