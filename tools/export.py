@@ -79,7 +79,7 @@ def near_matches(cands, nr_files, hashes, pf, work, maxd=10):
     chunks = [(i * 6, 6 if i < 10 else 4) for i in range(11)]
     idx = [defaultdict(list) for _ in chunks]
     nr = []
-    for s in nr_files:
+    for s in sorted(nr_files):
         d, a = (bits(x) for x in hashes.get(s, (None, None)))
         if d is None or a is None:
             continue
@@ -93,18 +93,19 @@ def near_matches(cands, nr_files, hashes, pf, work, maxd=10):
         d, a = (bits(x) for x in hashes.get(s, (None, None)))
         if d is None or a is None or (d == 0 and a == 0):
             continue
-        seen = set()
+        seen, best = set(), None                     # nearest match (then lowest sha): the same every run
         for k, (o, n) in enumerate(chunks):
             for j in idx[k].get((d >> o) & ((1 << n) - 1), ()):
                 if j in seen:
                     continue
                 seen.add(j)
                 t, dd, aa = nr[j]
-                if g(t) != g(s) and (d ^ dd).bit_count() <= maxd and (a ^ aa).bit_count() <= maxd:
-                    out[s] = t
-                    break
-            if s in out:
-                break
+                dist = ((d ^ dd).bit_count() + (a ^ aa).bit_count(), t)
+                if g(t) != g(s) and (d ^ dd).bit_count() <= maxd and (a ^ aa).bit_count() <= maxd \
+                        and (best is None or dist < best):
+                    best = dist
+        if best:
+            out[s] = best[1]
     return out
 
 
@@ -284,10 +285,14 @@ def main():
     # --- blind human checks (author's own judgements)
     with open(OUT / "check_labels.csv", "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
-        w.writerow(["picture", "order", "claude_v2", "claude_final", "human"])
+        # stratum = the v2 decision the sample was drawn from (100 each); claude_v2 also reads v2's trick tag
+        w.writerow(["picture", "order", "stratum", "claude_v2", "claude_final", "human"])
         for p, o, m, h in q("""SELECT c.picture, c.ord, c.machine, h.decision FROM v2_check_queue c
                                JOIN v2_human h ON h.picture = c.picture ORDER BY c.ord"""):
-            w.writerow([p, o, m, labels.get(p, ("",))[0], h])
+            v2 = con.execute("""SELECT decision, tag FROM machine_reviews WHERE picture = ? AND model IN
+                      ('claude-opus-5-5/blind-v2', 'claude-opus-5-5/blind-v2-pilot') ORDER BY model DESC""",
+                             (p,)).fetchone()
+            w.writerow([p, o, m, "trick" if v2[1] == "trick" else v2[0], labels.get(p, ("",))[0], h])
     with open(OUT / "check_categories.csv", "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
         w.writerow(["picture", "order", "claude_main_at_check", "claude_main_final", "claude_categories_final",

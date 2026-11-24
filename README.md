@@ -56,6 +56,8 @@ Categories (`categories.csv`, several allowed per picture, plus a main one):
 | F | face and object recognition |
 | R | afterimage, adaptation and fading |
 | X | multimodal (vision with sound or touch) |
+| T | also trick art (only together with an illusion category) |
+| ? | category unclear |
 
 Pictures are left out of the classification (`in_classification = 0`) in two cases:
 - they fit inside 320×240 px;
@@ -70,7 +72,7 @@ Pictures are left out of the classification (`in_classification = 0`) in two cas
 | `files.csv` | distinct file (55,468) | `sha256`, `picture`, size, frames; `dhash`, `ahash` (64-bit perceptual hashes); `zip`; `zip_note` (why a licensed file is not bundled) |
 | `concepts.csv` | illusion concept (353, from Wikidata) | English and Japanese names and descriptions, discoverer, year, `core` |
 | `record_concepts.csv` | record–concept link | `method` (how the link was made) |
-| `check_labels.csv` | blind human check of labels (300) | Claude's label vs the human label |
+| `check_labels.csv` | blind human check of labels (300) | `stratum` (the first-round label the sample was drawn from, 100 each), Claude's first-round and final labels, the human label |
 | `check_categories.csv` | blind human check of categories (351) | Claude's categories vs the human categories |
 | `repost_check.csv` | visually checked picture (2,816) | `decision` (keep / exclude) and reason |
 | `categories.csv` | category code | English and Japanese names |
