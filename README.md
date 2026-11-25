@@ -106,8 +106,10 @@ identified itself in the User-Agent. Animated GIFs are included; videos are not.
 | Project Gutenberg (Luckiesh 1922) | 102 | yes |
 | Wikidebrouillard | 9 | yes |
 
-**Michael Bach's site** asks that its content not be used as AI input (`Content-signal: ai-input=no`). Its 172
-records (124 pictures) carry `no_ai_input`. Do not use them to train models.
+**Michael Bach's site** gives the content signal `search=yes, ai-input=no, ai-train=yes` in its robots.txt
+(unchanged between the collection in October 2026 and November 2026). Its 172 records (124 pictures) carry the flag
+`no_ai_input`. These pictures were labelled and categorised by a model like all the others; the images themselves are
+not distributed here. If you use them, follow the signal of the site.
 
 ## Repost screen
 
