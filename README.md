@@ -1,5 +1,7 @@
 # illusion-image-index
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24520368.svg)](https://doi.org/10.5281/zenodo.24520368)
+
 An index of visual-illusion images published on the web. It lists 47,413 pictures (60,362 source records from
 29 sources: Wikimedia Commons, Flickr via Openverse, Visiome, university and artist sites, blogs and datasets).
 Each picture has:
@@ -12,7 +14,7 @@ Each picture has:
 The labels were made by Claude (Anthropic) from the image alone, and checked against blind human judgements.
 
 - Paper: (arXiv link to be added)
-- Archived release with images: (Zenodo DOI to be added)
+- Archived release with images: [doi:10.5281/zenodo.24520368](https://doi.org/10.5281/zenodo.24520368) (Zenodo)
 - Author: Eiji Watanabe, National Institute for Basic Biology, Okazaki, Japan
   ([ORCID 0000-0001-9089-8122](https://orcid.org/0000-0001-9089-8122))
 

@@ -1,6 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this index, its labels or code, please cite it as below."
-title: "illusion-image-index: an index of visual-illusion images on the web, with labels and licences"
+title: "illusion-image-index: an index of 47,000 visual-illusion images from the web, with model labels checked by a blind human rater"
+type: dataset
+doi: "10.5281/zenodo.24520368"
 authors:
   - family-names: Watanabe
     given-names: Eiji

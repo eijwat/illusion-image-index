@@ -1,10 +1,19 @@
 {
-  "title": "illusion-image-index: an index of visual-illusion images on the web, with labels and licences",
+  "title": "illusion-image-index: an index of 47,000 visual-illusion images from the web, with model labels checked by a blind human rater",
   "upload_type": "dataset",
   "creators": [
-    {"name": "Watanabe, Eiji", "affiliation": "National Institute for Basic Biology", "orcid": "0000-0001-9089-8122"}
+    {
+      "name": "Watanabe, Eiji",
+      "affiliation": "National Institute for Basic Biology",
+      "orcid": "0000-0001-9089-8122"
+    }
   ],
   "description": "Metadata for 47,413 pictures (60,362 source records from 29 web sources) collected as candidate visual-illusion images, each labelled illusion / not an illusion / trick art / unsure, with perceptual categories for 11,421 illusion pictures, source URLs, authors and normalised licences, and two blind human checks. Images whose licence allows redistribution and that passed a repost screen are bundled separately by licence. Code: MIT. Metadata and labels: CC BY 4.0. Images: their own licences.",
   "license": "cc-by-4.0",
-  "keywords": ["visual illusions", "image dataset", "perception", "vision-language models"]
+  "keywords": [
+    "visual illusions",
+    "image dataset",
+    "perception",
+    "vision-language models"
+  ]
 }
